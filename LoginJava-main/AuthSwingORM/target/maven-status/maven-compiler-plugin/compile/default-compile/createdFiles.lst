@@ -1,0 +1,15 @@
+com\senac\authswingorm\util\JPAUtil.class
+com\senac\authswingorm\view\LoginForm$3.class
+com\senac\authswingorm\view\CadastroForm$1.class
+com\senac\authswingorm\view\LoginForm$2.class
+com\senac\authswingorm\view\CadastroForm.class
+com\senac\authswingorm\view\HomeForm.class
+com\senac\authswingorm\model\Usuario.class
+com\senac\authswingorm\view\CadastroForm$4.class
+com\senac\authswingorm\view\LoginForm$1.class
+com\senac\authswingorm\Main.class
+com\senac\authswingorm\dao\UsuarioDAO.class
+com\senac\authswingorm\view\CadastroForm$3.class
+com\senac\authswingorm\service\AuthService.class
+com\senac\authswingorm\view\LoginForm.class
+com\senac\authswingorm\view\CadastroForm$2.class
